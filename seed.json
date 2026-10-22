@@ -1,0 +1,119 @@
+[
+  {
+    "id": "e0",
+    "name": "Pushups",
+    "baseline": 30,
+    "sets": 1,
+    "rate": 1,
+    "description": "Maintain a straight body and lower with control.",
+    "active": true
+  },
+  {
+    "id": "e1",
+    "name": "Dips",
+    "baseline": 12,
+    "sets": 1,
+    "rate": 1,
+    "description": "Use stable supports and avoid uncomfortable shoulder positions.",
+    "active": true
+  },
+  {
+    "id": "e2",
+    "name": "Rows",
+    "baseline": 30,
+    "sets": 1,
+    "rate": 1,
+    "description": "Pull elbows back in a controlled motion.",
+    "active": true
+  },
+  {
+    "id": "e3",
+    "name": "Dead bug",
+    "baseline": 30,
+    "sets": 1,
+    "rate": 1,
+    "description": "Alternate opposite arm and leg while keeping your core braced.",
+    "active": true
+  },
+  {
+    "id": "e4",
+    "name": "Leg raises",
+    "baseline": 25,
+    "sets": 1,
+    "rate": 1,
+    "description": "Lift and lower legs slowly without arching your back.",
+    "active": true
+  },
+  {
+    "id": "e5",
+    "name": "Twists",
+    "baseline": 25,
+    "sets": 1,
+    "rate": 1,
+    "description": "Rotate your torso slowly.",
+    "active": true
+  },
+  {
+    "id": "e6",
+    "name": "Squats",
+    "baseline": 25,
+    "sets": 1,
+    "rate": 1,
+    "description": "Sit back and down with feet planted.",
+    "active": true
+  },
+  {
+    "id": "e7",
+    "name": "Calf raises",
+    "baseline": 25,
+    "sets": 1,
+    "rate": 1,
+    "description": "Rise onto your toes and lower slowly.",
+    "active": true
+  },
+  {
+    "id": "e8",
+    "name": "Chin-ups",
+    "baseline": 15,
+    "sets": 1,
+    "rate": 1,
+    "description": "Pull up with palms facing you, lowering with control.",
+    "active": true
+  },
+  {
+    "id": "e9",
+    "name": "Arnold press",
+    "baseline": 20,
+    "sets": 1,
+    "rate": 1,
+    "description": "Press with controlled shoulder movement.",
+    "active": true
+  },
+  {
+    "id": "e10",
+    "name": "Grips",
+    "baseline": 50,
+    "sets": 1,
+    "rate": 1,
+    "description": "Squeeze and release your grip trainer.",
+    "active": true
+  },
+  {
+    "id": "e11",
+    "name": "7-second holds",
+    "baseline": 10,
+    "sets": 1,
+    "rate": 1,
+    "description": "Hold the chosen position for seven seconds per repetition.",
+    "active": true
+  },
+  {
+    "id": "e12",
+    "name": "Prone reverse flies",
+    "baseline": 10,
+    "sets": 1,
+    "rate": 0,
+    "description": "Lie facedown, arms out to your sides, gently lift arms in a comfortable range. Stop if tingling or pain occurs.",
+    "active": true
+  }
+]
